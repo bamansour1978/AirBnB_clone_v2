@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines unnittests for models/city.py."""
+"""A file Defines unnittests for models/city.py."""
 import os
 import pep8
 import models
