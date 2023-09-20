@@ -14,7 +14,7 @@ from models.review import Review
 
 
 class HBNBCommand(cmd.Cmd):
-    """ class Defines the HolbertonBnB command interpreter."""
+    """ the class Defines the HolbertonBnB command interpreter."""
 
     prompt = "(hbnb) "
     __classes = {
