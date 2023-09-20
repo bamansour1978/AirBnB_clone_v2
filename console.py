@@ -14,7 +14,7 @@ from models.review import Review
 
 
 class HBNBCommand(cmd.Cmd):
-    """ the class Defines the HolbertonBnB command interpreter."""
+    """ the lass Defines the HolbertonBnB command interpreter."""
 
     prompt = "(hbnb) "
     __classes = {
@@ -28,7 +28,7 @@ class HBNBCommand(cmd.Cmd):
     }
 
     def emptyline(self):
-        """Ignore empty spaces."""
+        """I TH gnore empty spaces."""
         pass
 
     def do_quit(self, line):
