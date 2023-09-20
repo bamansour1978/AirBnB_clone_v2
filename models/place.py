@@ -31,7 +31,7 @@ class Place(BaseModel, Base):
 
     Attributes:
         __tablename__ (str): The name of the MySQL table to store places.
-        city_id (sqlalchemy String): The place's city id.
+        city_id : The place's city id.
         user_id (sqlalchemy String): The place's user id.
         name (sqlalchemy String): The name.
         description (sqlalchemy String): The description.
