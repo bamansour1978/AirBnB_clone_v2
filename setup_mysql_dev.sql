@@ -1,4 +1,4 @@
--- Create or Replace the database 'hbnb_dev_db'
+-- Create Or Replace the database 'hbnb_dev_db'
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 
 -- Create or Replace the user 'hbnb_dev' with password 'hbnb_dev_pwd' in localhost
