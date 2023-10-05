@@ -1,4 +1,4 @@
--- Create the hbnb_test_db database if it does not exist
+-- Create The hbnb_test_db database if it does not exist
 CREATE DATABASE IF NOT EXISTS hbnb_test_db;
 
 -- Create the hbnb_test user if it does not exist, set the password, and grant privileges
