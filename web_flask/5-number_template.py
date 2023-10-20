@@ -8,7 +8,7 @@
         H1 tag: “Number: n is even|odd” inside the tag BODY
 You must use the option strict_slashes=False
 """
-from flask import 
+from flask import
 from flask import render_template
 
 app = Flask(__name__)
