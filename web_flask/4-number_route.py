@@ -42,7 +42,7 @@ def python(text="is cool"):
     return "Python {}".format(text)
 
 
-@app.route("/number/<ini:n>", strict_slashes=False)
+@app.route("/number/<int:n>", strict_slashes=False)
 def number(n):
     return "{} is a number".format(n)
 
